@@ -3,18 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 'CV-Resume'
-subtitle: '(Для просмотра используйте навигацию в шапке страницы)'
-descriprion_second: 'Привет!'
-description: 'Это мое резюме'
+title: Hexo
+subtitle: ''
+description: ''
 keywords:
-author: 
+author: John Doe
 language: en
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://rubydes.github.io/Owner-Avatar-Fundamentals-Of-Open-Systems-Interoperability/
+url: http://example.com
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -78,10 +77,10 @@ meta_generator: true
 ## Hexo uses Moment.js to parse and display date
 ## You can customize the date format as defined in
 ## http://momentjs.com/docs/#/displaying/format/
-# date_format: YYYY-MM-DD
-# time_format: HH:mm:ss
+date_format: YYYY-MM-DD
+time_format: HH:mm:ss
 ## updated_option supports 'mtime', 'date', 'empty'
-# updated_option: 'mtime'
+updated_option: 'mtime'
 
 # Pagination
 ## Set per_page to 0 to disable pagination
@@ -97,7 +96,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: hexo-theme-cupertino
+theme: landscape
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
