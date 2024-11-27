@@ -1,5 +1,5 @@
 ---
-title: Мое резюме
+title: CV-resume
 ---
 
 <!DOCTYPE html>
@@ -42,29 +42,28 @@ title: Мое резюме
         <h1>Мое резюме</h1>
         <div class="section">
             <h2>Контактная информация</h2>
-            <p>Имя: Иван Иванов</p>
-            <p>Email: ivan.ivanov@example.com</p>
-            <p>Телефон: +7 (123) 456-78-90</p>
+            <p>Имя: Гакрамов Риназ</p>
+            <p>Email: youngprog@mail.ru</p>
+            <p>Телефон: +7 (123) 123 123</p>
         </div>
         <div class="section">
             <h2>Опыт работы</h2>
-            <p><strong>Frontend Developer</strong> - ООО "WebTech", Москва</p>
-            <p>Сентябрь 2020 - настоящее время</p>
+            <p><strong>Frontend Developer</strong> - ООО 'Omega'</p>
+            <p>Июнь 2024</p>
             <ul>
-                <li>Разработка и поддержка веб-приложений на React.</li>
-                <li>Оптимизация производительности и улучшение пользовательского опыта.</li>
+                <li>Разработка интернет магазина на React</li>
             </ul>
         </div>
         <div class="section">
             <h2>Образование</h2>
-            <p><strong>Бакалавр Информатики</strong> - Московский Государственный Университет, Москва</p>
-            <p>Сентябрь 2016 - Июнь 2020</p>
+            <p><strong>ФИиВТ ПС</strong> - Поволжский Государственный технологический университет</p>
+            <p>Сентябрь 2022 - Июнь 2026</p>
         </div>
         <div class="section">
             <h2>Навыки</h2>
             <ul>
                 <li>HTML, CSS, JavaScript</li>
-                <li>React, Vue.js</li>
+                <li>React</li>
                 <li>Git, GitHub</li>
             </ul>
         </div>
